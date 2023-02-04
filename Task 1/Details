@@ -1,0 +1,17 @@
+First week of JAVASCRIPT :
+
+-> How and where can we insert the javascript in our html file?
+
+-> <script> tag and values we can pass in script tag (like src,type)
+
+-> console.log()
+
+-> Variables (var,let,const)
+
+-> Why we inspect tab (i.e. when we open a webpage we can inspect it with: right click->Inspect)
+
+-> document.getElementById()
+
+-> document.write()
+
+-> Basic Input/Output (prompt,alert)
